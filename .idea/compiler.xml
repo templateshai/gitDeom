@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="client" />
         <module name="common" />
+        <module name="dao" />
         <module name="service" />
         <module name="web" />
       </profile>
@@ -15,6 +16,7 @@
     <bytecodeTargetLevel>
       <module name="client" target="1.7" />
       <module name="common" target="1.7" />
+      <module name="dao" target="1.7" />
       <module name="gitDemo" target="1.5" />
       <module name="service" target="1.7" />
       <module name="web" target="1.8" />
